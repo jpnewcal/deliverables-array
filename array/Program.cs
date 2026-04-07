@@ -4,7 +4,6 @@ class Program
 {
     static void Main(string[] args)
     {
-        // Initialize and populate the array with books
         string[] favoriteBooks = {
             "Nous, les dieux",
             "Dorian grey",
