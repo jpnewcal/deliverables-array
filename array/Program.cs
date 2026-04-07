@@ -6,7 +6,6 @@ class Program
     {
         // Initialize and populate the array with books
         string[] favoriteBooks = {
-            "To Kill a Mockingbird",
             "Nous, les dieux",
             "Dorian grey",
             "Invincible",
