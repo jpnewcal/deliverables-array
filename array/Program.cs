@@ -19,8 +19,5 @@ class Program
         {
             Console.WriteLine("- " + book);
         }
-
-        Console.WriteLine("\nPress any key to exit...");
-        Console.ReadKey();
     }
 }
