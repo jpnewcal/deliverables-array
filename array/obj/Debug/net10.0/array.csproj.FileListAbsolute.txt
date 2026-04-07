@@ -1,0 +1,15 @@
+/Users/julien-pierregoyetche/projects/deliv-array/array/bin/Debug/net10.0/array
+/Users/julien-pierregoyetche/projects/deliv-array/array/bin/Debug/net10.0/array.deps.json
+/Users/julien-pierregoyetche/projects/deliv-array/array/bin/Debug/net10.0/array.runtimeconfig.json
+/Users/julien-pierregoyetche/projects/deliv-array/array/bin/Debug/net10.0/array.dll
+/Users/julien-pierregoyetche/projects/deliv-array/array/bin/Debug/net10.0/array.pdb
+/Users/julien-pierregoyetche/projects/deliv-array/array/obj/Debug/net10.0/array.GeneratedMSBuildEditorConfig.editorconfig
+/Users/julien-pierregoyetche/projects/deliv-array/array/obj/Debug/net10.0/array.AssemblyInfoInputs.cache
+/Users/julien-pierregoyetche/projects/deliv-array/array/obj/Debug/net10.0/array.AssemblyInfo.cs
+/Users/julien-pierregoyetche/projects/deliv-array/array/obj/Debug/net10.0/array.csproj.CoreCompileInputs.cache
+/Users/julien-pierregoyetche/projects/deliv-array/array/obj/Debug/net10.0/array.sourcelink.json
+/Users/julien-pierregoyetche/projects/deliv-array/array/obj/Debug/net10.0/array.dll
+/Users/julien-pierregoyetche/projects/deliv-array/array/obj/Debug/net10.0/refint/array.dll
+/Users/julien-pierregoyetche/projects/deliv-array/array/obj/Debug/net10.0/array.pdb
+/Users/julien-pierregoyetche/projects/deliv-array/array/obj/Debug/net10.0/array.genruntimeconfig.cache
+/Users/julien-pierregoyetche/projects/deliv-array/array/obj/Debug/net10.0/ref/array.dll
